@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "bitbag/wishlist-plugin": [
+      "4.4"
+    ]
+  },
+  "branch": "main",
+  "is_contrib": true,
+  "_links": {
+    "repository": "github.com/BitBagCommerce/SyliusWishlistPlugin",
+    "origin_template": "{package}:{version}@github.com/BitBagCommerce/SyliusWishlistPlugin:main",
+    "recipe_template": "https://api.github.com/repos/BitBagCommerce/SyliusWishlistPlugin/contents/{package_dotted}.{version}.json"
+  }
+}
