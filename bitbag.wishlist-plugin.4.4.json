@@ -11,6 +11,24 @@
           "config/": "%CONFIG_DIR%/"
         }
       },
+      "files": {
+        "config/packages/bitbag_sylius_wishlist_plugin.yaml": {
+          "contents": [
+            "imports:",
+            "    - { resource: \"@BitBagSyliusWishlistPlugin/Resources/config/config.yml\" }",
+            ""
+          ],
+          "executable": false
+        },
+        "config/routes/bitbag_sylius_wishlist_plugin.yaml": {
+          "contents": [
+            "bitbag_sylius_wishlist_plugin:",
+            "    resource: \"@BitBagSyliusWishlistPlugin/Resources/config/routing.yml\"",
+            ""
+          ],
+          "executable": false
+        }
+      },
       "ref": "d3cac31b9ef27fad532efaf1a4d23753635ea724"
     }
   }
