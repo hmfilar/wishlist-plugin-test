@@ -7,8 +7,8 @@
   "branch": "main",
   "is_contrib": true,
   "_links": {
-    "repository": "github.com/BitBagCommerce/SyliusWishlistPlugin",
-    "origin_template": "{package}:{version}@github.com/BitBagCommerce/SyliusWishlistPlugin:main",
-    "recipe_template": "https://api.github.com/repos/BitBagCommerce/SyliusWishlistPlugin/contents/{package_dotted}.{version}.json"
+    "repository": "github.com/hmfilar/wishlist-plugin-test",
+    "origin_template": "{package}:{version}@github.com/hmfilar/wishlist-plugin-test:main",
+    "recipe_template": "https://api.github.com/repos/hmfilar/wishlist-plugin-test/contents/{package_dotted}.{version}.json"
   }
 }
