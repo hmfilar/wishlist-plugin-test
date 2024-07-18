@@ -8,7 +8,7 @@
   "is_contrib": true,
   "_links": {
     "repository": "github.com/hmfilar/wishlist-plugin-test",
-    "origin_template": "{package}:{version}@github.com/hmfilar/wishlist-plugin-test:main",
+    "origin_template": "{package}:{version}@github.com/hmfilar/wishlist-plugin-test:master",
     "recipe_template": "https://api.github.com/repos/hmfilar/wishlist-plugin-test/contents/{package_dotted}.{version}.json"
   }
 }
